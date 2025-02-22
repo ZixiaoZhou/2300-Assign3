@@ -60,6 +60,5 @@ At the end of the game, the **leaderboard ranks players** based on **score & num
 - 🌍 **More Levels**: Increased difficulty, special effects
 - 🎭 **Customizable Skins & Themes**: Unique bubble & bomb designs
 - 🏆 **Online Leaderboard**: Store player scores in a remote database
-- 📱 **Mobile Support**: Touchscreen gameplay support
 
 
