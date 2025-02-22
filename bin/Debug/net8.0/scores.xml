@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Score>
+    <Value>160</Value>
+    <ClickTimes>12</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>160</Value>
+    <ClickTimes>17</ClickTimes>
+    <PlayerName>VHH</PlayerName>
+  </Score>
+  <Score>
+    <Value>150</Value>
+    <ClickTimes>17</ClickTimes>
+    <PlayerName>SDFSF</PlayerName>
+  </Score>
+  <Score>
+    <Value>100</Value>
+    <ClickTimes>5</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>80</Value>
+    <ClickTimes>5</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>70</Value>
+    <ClickTimes>13</ClickTimes>
+    <PlayerName>SD</PlayerName>
+  </Score>
+  <Score>
+    <Value>60</Value>
+    <ClickTimes>11</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>60</Value>
+    <ClickTimes>9</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>40</Value>
+    <ClickTimes>4</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>40</Value>
+    <ClickTimes>11</ClickTimes>
+    <PlayerName>ADFDSFS</PlayerName>
+  </Score>
+  <Score>
+    <Value>40</Value>
+    <ClickTimes>5</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>20</Value>
+    <ClickTimes>4</ClickTimes>
+    <PlayerName />
+  </Score>
+  <Score>
+    <Value>0</Value>
+    <ClickTimes>0</ClickTimes>
+    <PlayerName>JJJJJJJMMM</PlayerName>
+  </Score>
+</ArrayOfScore>
