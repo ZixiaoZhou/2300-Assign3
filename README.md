@@ -60,5 +60,17 @@ In the end, players are ranked **on the leaderboard** for their **score and numb
 - 🌍 **More Levels**: Increased difficulty, special effects
 - 🎭 **Customizable Skins & Themes**: Unique bubble & bomb designs
 - 🏆 **Online Leaderboard**: Store player scores in a remote database
+  
+---
 
+## 📜 License
 
+This project is licensed under the **MIT License**.
+
+### 🔍 Why MIT?
+We chose the **MIT License** because:
+- ✅ It allows developers to freely use, modify, and distribute this game.
+- ✅ It ensures that proper credit is given while maintaining openness.
+- ✅ It protects the project creator from liability.
+
+You can read the full license [here](./LICENSE).
