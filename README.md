@@ -32,7 +32,43 @@ At the end of the game, the **leaderboard ranks players** based on **score & num
 
 ## 🚀 Installation & Run Instructions
 
-1. **Clone the repository**
+### **Step 1: Download the Game**
+1. Go to the **[Releases Page](https://github.com/ZixiaoZhou/2300-Assign3/releases)**
+2. Download the latest version: **`BubbleClicker_vX.X.zip`**
+3. Extract the ZIP file to a folder on your computer.
+
+### **Step 2: Run the Game**
+1. Open the extracted folder.
+2. Double-click **`final.exe`** to start the game.
+3. Enjoy playing!
+
+---
+
+## 🎯 Key Features
+
+- ✅ **Two-Level Challenge**: Standard mode & bomb mode
+- 🎈 **Smooth Click Interaction**: Precise input detection using MonoGame
+- ⏳ **60-Second Countdown**: Adds tension and excitement
+- 🔥 **Real-Time Leaderboard**: Tracks score & click count
+- 🎶 **Sound Effects & Animations**: Enhances immersion
+- 🎨 **Custom UI Rendering**: Sprite-based UI system
+
+---
+
+## 📝 Future Enhancements (TODO)
+
+- 🌍 **More Levels**: Increased difficulty, special effects
+- 🎭 **Customizable Skins & Themes**: Unique bubble & bomb designs
+- 🏆 **Online Leaderboard**: Store player scores in a remote database
+- 📱 **Mobile Support**: Touchscreen gameplay support
+
+---
+
+## 👥 How to Contribute
+
+We welcome contributors! Follow these steps:
+
+1. **Fork the repository**
+2. **Create a new feature branch**
    ```bash
-   git clone https://github.com/ZixiaoZhou/2300-Assign3.git
-   cd 2300-Assign3
+   git checkout -b feature-new-feature
