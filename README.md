@@ -62,13 +62,4 @@ At the end of the game, the **leaderboard ranks players** based on **score & num
 - 🏆 **Online Leaderboard**: Store player scores in a remote database
 - 📱 **Mobile Support**: Touchscreen gameplay support
 
----
 
-## 👥 How to Contribute
-
-We welcome contributors! Follow these steps:
-
-1. **Fork the repository**
-2. **Create a new feature branch**
-   ```bash
-   git checkout -b feature-new-feature
