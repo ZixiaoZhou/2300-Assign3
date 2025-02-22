@@ -1,10 +1,10 @@
 # 🎈 Bubble Clicker - MonoGame Edition
 
-Bubble Clicker is a **MonoGame-based bubble-clicking game** where players must click as many bubbles as possible within **1 minute** to score points. The game has **two levels**:
-- **Level 1**: Only bubbles appear. Clicking them gives points.
-- **Level 2**: Both bubbles and **bombs** appear. Clicking bombs **deducts points**.
+With **Bubble Clicker**, players participate in a bubble clicking contest, clicking as many bubbles as they can in **a minute** to gain the highest score. Bubble Clicker has one game mode with **two levels**:
+- **Level 1**: Players are only able to click **bubbles**, which earns them the highest score.
+- **Level 2**: Features the additional **bombs** which players can click, but these will cost the player points.
 
-At the end of the game, the **leaderboard ranks players** based on **score & number of clicks**, testing their reflexes! 🚀
+In the end, players are ranked **on the leaderboard** for their **score and number of clicks**, and their reflexes are put to the test.🚀
 
 ---
 
